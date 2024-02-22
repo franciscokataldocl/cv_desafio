@@ -25,10 +25,8 @@ ul li{
     justify-content: center;
     align-items: center;
     height: 100vh;
-
-    
     margin:0 auto;
-    padding:10%;
+    padding:2%;
   }
   .container{
     background-color: #dfdfdf;
