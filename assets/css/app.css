@@ -1,0 +1,41 @@
+p{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+ul li{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+  
+  body{
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background:#383838;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    
+    margin:0 auto;
+    padding:10%;
+  }
+  .container{
+    background-color: #dfdfdf;
+    border-radius: 5px;
+    padding:20px 60px;
+max-width: 600px;
+  }
+  img{
+    width:200px;
+  }
